@@ -1,45 +1,35 @@
-# MP3-editor
-MP3 Редактор - это простая и удобная программа с графическим интерфейсом для редактирования метаданных MP3 файлов. С её помощью вы можете изменять информацию о музыкальных треках и добавлять обложки.
+#MP3-editor
 
-Основные возможности:
+Key Features:
+-Player
+-Play MP3 files
+-Pause and stop playback
+-Seek through track (click on progress bar)
+-Display current time and total duration
+-Visual progress bar
 
-Редактирование метаданных: Изменение названия трека, исполнителя, альбома, номера трека, жанра и года выпуска.
+Metadata Editor:
+-Edit track title
+-Edit artist name
+-Edit album name
+-Edit track number
+-Edit genre
+-Edit release year
 
-Работа с обложками: Добавление, замена и удаление обложек аудиофайлов.
+Cover Art Management:
+-Add cover art from images (JPG, PNG, BMP, GIF)
+-Automatic conversion to JPEG
+-Remove existing cover art
+-Preview cover art in interface
 
-Просмотр информации: Отображение длительности, битрейта, размера и частоты файла.
+Saving Options:
+-Save changes to original file
+-Save as new file (Save As)
+-Automatic player stop when saving
 
-Сохранение: Возможность сохранить изменения в исходный файл или создать новый.
-
-
-Как пользоваться:
-
-Нажмите кнопку "Выбрать MP3" и укажите путь к аудиофайлу.
-
-Нажмите "Загрузить информацию" для отображения текущих данных.
-
-Отредактируйте нужные поля в разделе "Метаданные".
-
-Для добавления обложки нажмите "Загрузить обложку" и выберите изображение.
-
-Нажмите "Сохранить изменения" для применения правок.
-
-
-Поддерживаемые форматы изображений:
-
-JPG / JPEG
-
-PNG
-
-BMP
-
-GIF
-
-
-Примечания:
-
-Обложки автоматически изменяются до размера 500x500 пикселей для экономии места.
-
-Прозрачные изображения (PNG) конвертируются в JPEG с белым фоном.
-
-Все изменения сохраняются в стандарт ID3 v2.3.
+File Information:
+-File name
+-Size in MB
+-Track duration
+-Bitrate (kbps)
+-Sample rate (kHz)
